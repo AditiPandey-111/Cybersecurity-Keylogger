@@ -33,13 +33,7 @@ Edit
  Getting Started
 Replace keylogger.py with your actual filename if different.
 
-bash
-Copy
-Edit
-git clone https://github.com/yourusername/cybersecurity-mini-projects.git
-cd cybersecurity-mini-projects/keylogger
-python keylogger.py
- Built With
+Built With
 Python
 
 pynput library (for capturing keyboard input)
